@@ -89,7 +89,7 @@ Schema Used: Project Open Data
 |title      |Labor Union Membership and Collective Bargaining Agreement Coverage                                                                                                                               |
 ## Security <a name="security"></a>
 
-These curated datsets are made publically available, free of cost.
+These curated datasets are freely available to all people, both in this repository and their respective government repositories.
 
 Original data citation: Barry T. Hirsch and David A. Macpherson, "Union Membership and Coverage Database from the Current Population Survey: Note," Industrial and Labor Relations Review, Vol. 56, No. 2, January 2003, pp. 349-54 (updated annually at unionstats.com). 
 
