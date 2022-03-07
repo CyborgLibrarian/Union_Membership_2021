@@ -4,7 +4,9 @@ These datasets depict union membership and collective bargaining agreements in f
 These datasets are available in .csv format.
 
 ## Table of Contents
-1. [General information](#GeneralInformation)
+1. [Naming Convention](#naming)
+
+3. [General information](#GeneralInformation)
 
 2. [Data Dictionary](#datadictionary)
 
@@ -14,15 +16,19 @@ These datasets are available in .csv format.
 
 5. [Contact](#contact)
 
+## Naming Convention <a name="naming"></a>
+
+Files were named with maximum clarity in mind. We wanted to ensure that it would be clear to the user what data each csv file contained as well as, that the file names were machine readable and consistent with each other in form. The file names are as follows:
+
+   File #1: Union_Membership_2021.csv
+   
+   File #2: Collective_Bargaining_2021.csv
+
 ## General Information <a name="GeneralInformation"></a>
 
 1. Title of Datasets: 
 
    Labor Union Membership and Collective Bargaining Agreement Coverage
-   
-   File #1: Union_Membership_2021.csv
-   
-   File #2: Collective_Bargaining_2021.csv
 
 2. Author Information:
 
