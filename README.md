@@ -82,7 +82,7 @@ Schema Used: Project Open Data
 |language   |en-us                                                                                                                                                                                             |
 |modified   |3/7/20                                                                                                                                                                                            |
 |publisher  |Taylor Agajanian and Emma May                                                                                                                                                                     |
-|references |https://www.unionstats.com/                                                                                                                                                                       |
+|references |https://www.unionstats.com/; https://www.unionstats.com/Met_121.xlsx                                                                                                                                                                       |
 |rights     |These data are freely available to all people, both in this repository and their respective government repositories.                                                                              |
 |temporal   |2021                                                                                                                                                                                              |
 |theme      |unions                                                                                                                                                                                            |
