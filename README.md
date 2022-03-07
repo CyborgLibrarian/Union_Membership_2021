@@ -4,15 +4,15 @@ These datasets depict union membership and collective bargaining agreements in f
 These datasets are available in .csv format.
 
 ## Table of Contents
-1. [General information] (#GeneralInformation)
+1. [General information](#GeneralInformation)
 
-2. [Data Dictionary] (#datadictionary)
+2. [Data Dictionary](#datadictionary)
 
-3. [Metadata] (#Metadata)
+3. [Metadata](#metadata)
 
-4. [Security] (#Security)
+4. [Security](#security)
 
-5. [Contact] (#Contact)
+5. [Contact](#contact)
 
 ## General Information <a name="GeneralInformation"></a>
 
