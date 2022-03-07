@@ -74,21 +74,20 @@ Schema Used: Project Open Data
 |fn         |Taylor Agajanian                                                                                                                                                                                  |
 |hasEmail   |mailto:tjaggie@uw.edu                                                                                                                                                                             |
 |conformsTo |https://project-open-data.cio.gov/v1.1/schema                                                                                                                                                     |
-|description|This dataset concerns labor union membership rates in Seattle, Los Angeles, Dallas-Fort Worth and Johnson City areas. The dataset was curated for a class at the University of Washington in 2022.|
+|description|This dataset concerns labor union membership rates in Seattle, Los Angeles, Dallas/Fort Worth and Johnson City areas. The dataset was curated for a class at the University of Washington in 2022.|
 |format     |CSV                                                                                                                                                                                               |
 |issued     |3/7/20                                                                                                                                                                                            |
 |keyword    |"union", "labor", "workers", "seattle", "los angeles", "dallas", "johnson city"                                                                                                                   |
-|license    |http://creativecommons.org/publicdomain/zero/1.0/|
+|license    |http://creativecommons.org/publicdomain/zero/1.0/                                                                                                                                                 |
+|landingPage|https://github.com/CyborgLibrarian/Union_Membership_2021                                                                                                                                          |
 |language   |en-us                                                                                                                                                                                             |
-|landingpage |https://github.com/CyborgLibrarian/Union_Membership_2021|
-                                              |
 |modified   |3/7/20                                                                                                                                                                                            |
 |publisher  |Taylor Agajanian and Emma May                                                                                                                                                                     |
-|references |https://www.unionstats.com/                                                                                                                                                                      |
+|references |https://www.unionstats.com/                                                                                                                                                                       |
 |rights     |These data are freely available to all people, both in this repository and their respective government repositories.                                                                              |
-|temporal   |2021-05                                                                                                                                                                                              |
+|temporal   |2021-05                                                                                                                                                                                           |
 |theme      |unions                                                                                                                                                                                            |
-|title      |Labor Union Membership and Collective Bargaining Agreement Coverage                                                                                                                               |
+
 ## Security <a name="security"></a>
 
 These curated datasets are freely available to all people, both in this repository and their respective government repositories.
