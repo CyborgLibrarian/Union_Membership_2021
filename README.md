@@ -1,20 +1,20 @@
 # Union_Membership_2021
 These datasets depict union membership and collective bargaining agreements in four metropolitan areas in the United States in 2021. The intended stakeholder groups for these datasets are policymakers, researchers, and workers themselves. These datasets were curated for LIS 545 at University of Washington, Winter 2022.
 
-These datasets are available in .csv format. 
+These datasets are available in .csv format.
 
 ## Table of Contents
-1. General information
+1. [General information] (#GeneralInformation)
 
-2. Data Dictionary
+2. [Data Dictionary] (#datadictionary)
 
-3. Metadata
+3. [Metadata] (#Metadata)
 
-4. Security
+4. [Security] (#Security)
 
-5. Contact
+5. [Contact] (#Contact)
 
-## General Information
+## General Information <a name="GeneralInformation"></a>
 
 1. Title of Datasets: 
 
@@ -43,7 +43,7 @@ These datasets are available in .csv format.
     UMC data used in this dataset cover union membership and collective bargaining in four metropolitan areas including Los Angeles — Long Beach, 
     Seattle — Tacoma, Dallas — Fort Worth, and Johnson City — Kingsport — Bristol.
     
-## Data Dictionary
+## Data Dictionary <a name="datadictionary"></a>
 
 |CSV File(s)                                         |Variable Label    |Variable Type|Measurement Unit|Allowed Values                    |Description                                                                                                                   |
 |----------------------------------------------------|------------------|-------------|----------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ These datasets are available in .csv format.
 |Collective_Bargaining_2021                          |public_Covered    |integer      |numeric         |Integers greater than 0           |Total number of public sector wage and salary workers (ages 16 and over) who are covered by a collective bargaining agreement |
 |Collective_Bargaining_2021                          |p_public_Covered  |integer      |numeric         |Numbers between 0-100 (percentage)|Percent of public sector wage and salary workers (ages 16 and over) who are covered by a collective bargaining agreement      |
 
-## Metadata
+## Metadata <a name="metadata"></a>
 Schema Used: Project Open Data
 
 |Attribute  |Value                                                                                                                                                                                             |
@@ -87,12 +87,12 @@ Schema Used: Project Open Data
 |temporal   |2021                                                                                                                                                                                              |
 |theme      |unions                                                                                                                                                                                            |
 |title      |Labor Union Membership and Collective Bargaining Agreement Coverage                                                                                                                               |
-## Security
+## Security <a name="security"></a>
 
 These curated datsets are made publically available, free of cost.
 
 Original data citation: Barry T. Hirsch and David A. Macpherson, "Union Membership and Coverage Database from the Current Population Survey: Note," Industrial and Labor Relations Review, Vol. 56, No. 2, January 2003, pp. 349-54 (updated annually at unionstats.com). 
 
-## Contact
+## Contact <a name="contact"></a>
 
 Taylor Agajanian tjaggie@uw.edu
