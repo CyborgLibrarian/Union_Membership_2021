@@ -34,9 +34,9 @@ These datasets are available in .csv format.
 
 3. Date of data collection:
 
-    Data was consolidated from original Union Stats sources the week of 2022-02-27.
+    Data was consolidated from the original dataset on unionstats.com the week of 2022-02-27.
 
-    The original Union Stats data was collected by Union Membership and Coverage Database (UMC) researchers in May 2021.
+    The original UMC data was collected from the United States’ Census Bureau’s Current Population Survey in May 2021.
 
 4. Geographic location of data collection (where was data collected?): 
 
